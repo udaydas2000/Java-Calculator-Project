@@ -14,5 +14,5 @@
 A simple console-based calculator built using Java that performs basic arithmetic operations.
 
 ## ▶️ How to Run
-javac Calculator.java  
+java Calculator.java  
 java Calculator
